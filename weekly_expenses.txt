@@ -1,0 +1,6 @@
+Train tickets, Transport, Monday, 7.80
+Train tickets, Transport, Tuesday, 7.80
+Train tickets, Transport, Wednesday, 7.80
+Train tickets, Transport, Thursday, 7.80
+Train tickets, Transport, Friday, 7.80
+Groceries, Food, Monday, 25.90
